@@ -1,4 +1,4 @@
-name: "zmk-shield-nice!view-shield-base"
+name: "nice-art"
 build:
   settings:
     board_root: .

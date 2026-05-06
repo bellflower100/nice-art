@@ -1,6 +1,6 @@
 file_format: "1"
-id: nice-shield-base
-name: nice!view_shield_base
+id: nice-art
+name: nice_art
 type: shield
 url: https://nicekeyboards.com/nice-view
 requires: [nice_view_header]
